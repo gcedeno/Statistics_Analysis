@@ -1,10 +1,8 @@
 # Description
 
-This project corresponds to the Applied Statistics section of Udacity's Data Analyst Nanodegree program. A/B tests are very commonly performed by data analysts and data scientists. It is important to get some practice working with the difficulties of these.
+This project corresponds to the Applied Statistics section of Udacity's Data Analyst Nanodegree program. The objective is to get some practice performing A/B tests in a real business situation.
 
-For this project, it is required to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. The goal is to work through this notebook and help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
-
-The data and the Jupyter Notebook, which are all of the files needed to complete the project, are provided as part of this repository.
+For this project, it is required to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. The goal is to work through the Jupyter notebook and help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ## Python Libraries
 <br> For the analysis, the following python libraries are used:
